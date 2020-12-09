@@ -1,0 +1,11 @@
+:root {
+    --mainColor: #8ab0ab;
+    --colorOne: #3e505b;
+    --colorTwo: #26413c;
+    --colorThree: #1a1d1a;
+    --colorFour: #03120e;
+
+}
+body {
+    background-color:var(--colorOne);
+}
