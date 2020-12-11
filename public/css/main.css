@@ -50,6 +50,10 @@ hr {
     background-color:var(--colorThree);
     height:100%;
 }
+.section7 {
+    background-color:var(--colorTwo);
+    height:auto;
+}
 .header {
     text-align:center;
     width:100%;
