@@ -1,0 +1,13 @@
+.element {
+    display: inline;
+    animation: myAnimation 5s 1;
+    position: relative;
+    
+}
+#item1 {animation-timing-function: ease;}
+#item2 {animation-timing-function: ease;}
+
+@keyframes myAnimation {
+    from {left: 0px;}
+    to {left: 300px;}
+}

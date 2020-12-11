@@ -1,0 +1,108 @@
+:root {
+    --mainColor: #8ab0ab;
+    --colorOne: #3e505b;
+    --colorTwo: #26413c;
+    --colorThree: #1a1d1a;
+    --colorFour: #03120e;
+
+}
+body {
+    height:100vh;
+}
+h1,h2,h3,h4,h5,h6 {
+    color:var(--mainColor);
+}
+p {
+    color:var(--mainColor);
+
+}
+
+li {
+    color:var(--mainColor);
+
+}
+hr {
+    background-color:white;
+}
+.section1 {
+    background-color:var(--colorOne);
+    height:100%;
+}
+.section2 {
+    background-color:var(--colorTwo);
+    height:200%;
+
+}
+.section3 {
+    background-color:var(--colorThree);
+    height:auto;
+
+}
+.section4 {
+    background-color:var(--colorTwo);
+    height:100%;
+}
+.section5 {
+    background-color:var(--colorFour);
+    height:auto;
+}
+.section6 {
+    background-color:var(--colorThree);
+    height:100%;
+}
+.header {
+    text-align:center;
+    width:100%;
+    font-family: 'Inconsolata', monospace;
+}
+.element {
+    color:var(--mainColor);
+    font-size:4.5vw;
+    text-decoration: underline;
+
+}
+
+.graphic {
+    height:70vh;
+    width:80vh;
+    box-shadow: rgba(0,0,0,0.4);
+    border-radius:15%;
+    float:right;
+    margin:0%;
+    
+}
+.contImage {
+    position: relative;
+    text-align: center;
+    color: white;
+    height:100vh;
+    width:100%;
+    background-image: url('../resources/images/image_two.png');
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+
+}
+.top-left {
+    z-index: 1;
+    position: absolute;
+    top: 55px;
+    left: 55px;
+}
+#function {
+    color:blue; 
+}
+#theConstructor {
+    color:blue;
+}
+#thisdetails {
+    color:blue;
+}
+#initNewPerson {
+    color:blue;
+}
+#thisdetails2 {
+    color:blue;
+}
+#details {
+    margin-top:15%;
+}
