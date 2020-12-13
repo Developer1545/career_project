@@ -174,6 +174,7 @@ function newPersonInit4() {
 }
 $('#details').fadeIn(3500);
 
+/*
 $(window).scroll(function(){
     console.log($(window).scrollTop());
     var scroll = $(window).scrollTop();
@@ -184,5 +185,9 @@ $(window).scroll(function(){
     $(".section2").css("opacity", 2.75 - $(window).scrollTop() / 780);
     $(".section3").css("opacity", 3.75 - $(window).scrollTop() / 780);
     $(".section4").css("opacity", 5 - $(window).scrollTop() / 780);
+    $(".section5").css("opacity", 6.25 - $(window).scrollTop() / 780);
+    $(".section6").css("opacity", 7.25 - $(window).scrollTop() / 780);
+    $(".section7").css("opacity", 8.25 - $(window).scrollTop() / 780);
 
   });
+*/

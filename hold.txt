@@ -11,3 +11,17 @@
     from {left: 0px;}
     to {left: 300px;}
 }
+
+ <div class="row">
+                  
+                  
+                </div>
+                <div class="row">
+                   
+                    <div class="col-md-6 text-center">
+                        <h4>Limitless Creativity</h4>
+                        <img src="public/resources/images/think.png" style="height:80%; width:50%;"/>
+                        <p></p>
+
+                    </div>
+                </div> 

@@ -30,7 +30,7 @@ hr {
 }
 .section2 {
     background-color:var(--colorTwo);
-    height:200%;
+    height:auto;
 
 }
 .section3 {
@@ -48,7 +48,7 @@ hr {
 }
 .section6 {
     background-color:var(--colorThree);
-    height:100%;
+    height:auto;
 }
 .section7 {
     background-color:var(--colorTwo);
@@ -109,4 +109,13 @@ hr {
 }
 #details {
     margin-top:15%;
+}
+.img-max {
+    max-height:500px;
+}
+
+footer {
+    color:var(--mainColor);
+    background-color:var(--colorThree);
+    
 }
