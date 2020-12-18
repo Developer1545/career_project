@@ -10,7 +10,6 @@ function writeHeader() {
         i++;
         setTimeout(writeHeader, speed);
     }
-    setTimeout(writeFunction, 1000);
 }
 
 $('#details').fadeIn(3500);
