@@ -48,7 +48,7 @@ hr {
 }
 .section6 {
     background-color:var(--colorThree);
-    height:100%;
+    height:auto;
 }
 .section7 {
     background-color:var(--colorTwo);
